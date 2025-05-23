@@ -3,6 +3,7 @@ html {
 }
 body {
   font-family: "Arial", "Meiryo", "sans-serif";
+  text-align: center;
 }
 
 /* ひとつ文字装飾 */
@@ -26,9 +27,6 @@ h1 {
     font-family: "Josefin Sans"; 
 }
 
-.container{
-  text-align: center;
-}
 #parent p {
   font-weight: bold;
 }
